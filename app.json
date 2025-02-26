@@ -1,7 +1,7 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
-  "logo": "https://files.catbox.moe/gld2vo.jpg",
+  "name": "✦ᴡɴ_ʙᴏᴛ-xᴅ✦",
+  "description": "Javascript WhatsApp bot made by ᴡɴ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ🪀",
+  "logo": "https://files.catbox.moe/rza8md.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
 
@@ -16,19 +16,19 @@
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/gld2vo.jpg"
+      "value": "https://files.catbox.moe/rza8md.jpg"
     }, 
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/ktd1l4.jpg"
+      "value": "https://files.catbox.moe/rza8md.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
+      "value": "> ✦ᴡɴ_ʙᴏᴛ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴡɴ_ʙᴏᴛ xᴅ v2✦ ғʀᴏᴍ ᴡɴ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* https://github.com/sayurubandara⚡"
     },
     
     "PREFIX": {
